@@ -1,2 +1,3 @@
 def s():
-    pass
+    print('Hello')
+    print('Hello')
